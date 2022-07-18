@@ -11,7 +11,7 @@ public class Task1 {
        if(scanner1.nextInt() >= 366);{
             System.out.println("введите число меньше 366");
         }
-        if
+
 
 
 
